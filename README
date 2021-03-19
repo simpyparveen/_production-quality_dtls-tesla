@@ -1,0 +1,55 @@
+CONTENTS
+
+This library contains functions and structures that can help
+constructing a single-threaded UDP server with DTLS support in
+C99. The following components are available:
+
+* dtls
+  Basic support for DTLS with pre-shared key mode.
+
+* tests
+  The subdirectory tests contains test programs that show how each
+  component is used.
+
+BUILDING
+
+When using the code from the git repository, invoke make to build DTLS as a
+shared library.
+
+
+
+//Changes to makefile
+
+We need to make changes in /test/makefile as follows to use PSK: 
+
+	CFLAGS  := -DLOG_LEVEL_DTLS=$(LOG_LEVEL_DTLS) -I. -I.. -I../$(DTLS_SUPPORT) 
+	CFLAGS  := -DLOG_LEVEL_DTLS=$(LOG_LEVEL_DTLS) -I. -I.. -I../$(DTLS_SUPPORT) -i DTLS_PSK
+
+
+//Compilation(akefiless) :
+Goto mainfolder Execute : $ make
+Go to tests and execute : $ make
+
+
+//Running :
+
+	On server run command:-
+		
+	$ ./dtls-server 
+
+	On client run command:-
+		
+	$ ./dtls-client 0.0.0.0
+	$ ./dtls-client Server-IP
+
+/**********************************TESTING Purposes*****************/
+
+//On server run command:-
+		
+	$ ./dtls-server 
+
+//On client run command:-
+		
+	$ sh runtestclient.sh
+	$ bash readtestfiles.sh
+

@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5548c84-0703-4997-a81c-27d6875842a0" name="Default Changelist" comment="" />
+    <ignored path="$USER_HOME$/CLionProjects/untitled/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="tinydtls-master(IPV4) (copy2)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dtls.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="409">
+              <caret line="5018" column="17" selection-start-line="5018" selection-start-column="17" selection-end-line="5018" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dtls-peer.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="61" column="13" selection-start-line="61" selection-start-column="2" selection-end-line="61" selection-end-column="13" />
+              <folding>
+                <element signature="e#930#951#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dtls.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1106">
+              <caret line="437" selection-start-line="437" selection-end-line="437" />
+              <folding>
+                <element signature="e#1149#1192#0" expanded="true" />
+                <element signature="e#9825#9865#0" expanded="true" />
+                <element signature="e#15799#16129#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tinydtls.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="58" column="14" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="14" />
+              <folding>
+                <element signature="e#1043#1070#0" expanded="true" />
+                <element signature="e#1730#1842#0" expanded="true" />
+                <element signature="e#4011#4113#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/dtls-client.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-340">
+              <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+              <folding>
+                <element signature="e#739#783#0" expanded="true" />
+                <element signature="e#14893#15064#0" expanded="true" />
+                <element signature="e#15113#15256#0" expanded="true" />
+                <element signature="e#15286#15426#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tesla.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="19" column="26" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/dtls-server.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="77" column="31" selection-start-line="77" selection-start-column="31" selection-end-line="77" selection-end-column="31" />
+              <folding>
+                <element signature="e#1370#1498#0" expanded="true" />
+                <element signature="e#8504#8533#0" expanded="true" />
+                <element signature="e#9314#9363#0" expanded="true" />
+                <element signature="e#10657#10828#0" expanded="true" />
+                <element signature="e#10874#10945#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/f1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="15000" selection-start-column="15000" selection-end-column="15000" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/f2.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="140006" selection-start-column="140006" selection-end-column="140006" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ecc_ecdsa_validate(</find>
+      <find>DTLS_TESLA_SYN_LENGTH</find>
+      <find>u32</find>
+      <find>id</find>
+      <find>printf(</find>
+      <find>printf</find>
+      <find>revealed Key:</find>
+      <find>key_chain_len</find>
+      <find>Key_comm</find>
+      <find>get_psk_info</find>
+      <find>TESLA_KEYCHAIN_LEN999</find>
+      <find>ecc_ecdsa_validate</find>
+      <find>1000</find>
+      <find>K[</find>
+      <find>tesla_ps</find>
+      <find>tesla_mac</find>
+      <find>20000</find>
+      <find>TESLA_KEYCHAIN_LEN</find>
+      <find>dtls_peer_t</find>
+      <find>DEFAULT_PORT</find>
+      <find>Checking tesla in server (value in p )</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tests/f2.txt" />
+        <option value="$PROJECT_DIR$/tests/f1.txt" />
+        <option value="$PROJECT_DIR$/Makefile" />
+        <option value="$PROJECT_DIR$/tests/Makefile" />
+        <option value="$PROJECT_DIR$/tests/dtls-client.c" />
+        <option value="$PROJECT_DIR$/tinydtls.h" />
+        <option value="$PROJECT_DIR$/dtls-peer.h" />
+        <option value="$PROJECT_DIR$/tesla.h" />
+        <option value="$PROJECT_DIR$/dtls.c" />
+      </list>
+    </option>
+  </component>
+  <component name="OCFindUsagesOptions" text="false" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="1855" />
+    <option name="height" value="1204" />
+  </component>
+  <component name="ProjectId" id="1YbJ917U0dBc8UT77LOBVXGCbiG" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tinydtls_IPV4__ver6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tinydtls-master(IPV4)" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+            <path>
+              <item name="tinydtls_IPV4__ver6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tinydtls-master(IPV4)" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="tinydtls(IPV4)-ver31" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tinydtls_IPV4__ver6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tinydtls-master(IPV4)" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="tinydtls(IPV4)-ver31" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tinydtls_IPV4__ver6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tinydtls-master(IPV4)" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/k2sn" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="tinydtls_IPV4__ver6" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="tinydtls_IPV4__ver6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="tinydtls_IPV4__ver6">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="CMake.Install" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",KIND" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5548c84-0703-4997-a81c-27d6875842a0" name="Default Changelist" comment="" />
+      <created>1559926457643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559926457643</updated>
+      <workItem from="1559926458793" duration="873000" />
+      <workItem from="1560457832497" duration="118000" />
+      <workItem from="1560786198756" duration="2867000" />
+      <workItem from="1560806916191" duration="359000" />
+      <workItem from="1560966062308" duration="54000" />
+      <workItem from="1560966163945" duration="10000" />
+      <workItem from="1560966203201" duration="49000" />
+      <workItem from="1560966286736" duration="19019000" />
+      <workItem from="1561070242889" duration="3968000" />
+      <workItem from="1561075748397" duration="1000" />
+      <workItem from="1561076705718" duration="222000" />
+      <workItem from="1561079535841" duration="11188000" />
+      <workItem from="1561160077470" duration="2448000" />
+      <workItem from="1561340097141" duration="711000" />
+      <workItem from="1561404066260" duration="14000" />
+      <workItem from="1561673443969" duration="102000" />
+      <workItem from="1561732428873" duration="13000" />
+      <workItem from="1561733833160" duration="9856000" />
+      <workItem from="1561750899873" duration="20912000" />
+      <workItem from="1561950260447" duration="401000" />
+      <workItem from="1562097943023" duration="41248000" />
+      <workItem from="1562344562243" duration="22305000" />
+      <workItem from="1562787073456" duration="2418000" />
+      <workItem from="1562947016945" duration="3163000" />
+      <workItem from="1563206121432" duration="499000" />
+      <workItem from="1563208003793" duration="6925000" />
+      <workItem from="1563297522985" duration="187000" />
+      <workItem from="1563298127950" duration="1342000" />
+      <workItem from="1563377879806" duration="14979000" />
+      <workItem from="1563813997958" duration="2494000" />
+      <workItem from="1564162662071" duration="44990000" />
+      <workItem from="1564497022345" duration="116000" />
+      <workItem from="1564497161976" duration="8688000" />
+      <workItem from="1564537550601" duration="2812000" />
+      <workItem from="1564679663281" duration="534000" />
+      <workItem from="1564680545509" duration="28000" />
+      <workItem from="1564680584681" duration="141000" />
+      <workItem from="1564686372249" duration="370000" />
+      <workItem from="1564779329512" duration="465000" />
+      <workItem from="1564783680746" duration="13000" />
+      <workItem from="1564784661565" duration="615000" />
+      <workItem from="1564785462830" duration="214000" />
+      <workItem from="1564786204453" duration="4182000" />
+      <workItem from="1564792779802" duration="1024000" />
+      <workItem from="1565025138991" duration="3072000" />
+      <workItem from="1566512158148" duration="3313000" />
+      <workItem from="1566595088266" duration="224000" />
+      <workItem from="1566595562010" duration="2109000" />
+      <workItem from="1567097920087" duration="148000" />
+      <workItem from="1567547094034" duration="646000" />
+      <workItem from="1567785246173" duration="10289000" />
+      <workItem from="1568052502366" duration="2966000" />
+      <workItem from="1568134116240" duration="1594000" />
+      <workItem from="1569030208983" duration="287000" />
+      <workItem from="1569513418654" duration="7091000" />
+      <workItem from="1569536579144" duration="155000" />
+      <workItem from="1569858191296" duration="1629000" />
+      <workItem from="1569863655354" duration="3041000" />
+      <workItem from="1570472606341" duration="2514000" />
+      <workItem from="1570727553181" duration="612000" />
+      <workItem from="1570728349804" duration="58913000" />
+      <workItem from="1571332126001" duration="5598000" />
+      <workItem from="1571338478344" duration="11411000" />
+      <workItem from="1571439134428" duration="11620000" />
+      <workItem from="1572036246668" duration="521000" />
+      <workItem from="1572037350552" duration="21083000" />
+      <workItem from="1572275746730" duration="38624000" />
+      <workItem from="1572629184108" duration="21213000" />
+      <workItem from="1572890045826" duration="4282000" />
+      <workItem from="1572894373819" duration="33703000" />
+      <workItem from="1573234610539" duration="30897000" />
+      <workItem from="1575053640879" duration="11035000" />
+      <workItem from="1575085196608" duration="2378000" />
+      <workItem from="1575161021026" duration="21783000" />
+      <workItem from="1575661817092" duration="26299000" />
+      <workItem from="1576171473451" duration="6454000" />
+      <workItem from="1576182632248" duration="50000" />
+      <workItem from="1576182724084" duration="18033000" />
+      <workItem from="1576535201661" duration="11012000" />
+      <workItem from="1576700318414" duration="19531000" />
+      <workItem from="1576886490159" duration="2670000" />
+      <workItem from="1577739119135" duration="46960000" />
+      <workItem from="1578248288649" duration="19010000" />
+      <workItem from="1578426214510" duration="11093000" />
+      <workItem from="1578593588870" duration="186000" />
+      <workItem from="1578593789185" duration="1259000" />
+      <workItem from="1578596069604" duration="3183000" />
+      <workItem from="1578599922687" duration="10533000" />
+      <workItem from="1578613357235" duration="5190000" />
+      <workItem from="1578619612501" duration="26000" />
+      <workItem from="1578619657977" duration="2846000" />
+      <workItem from="1578623689284" duration="6682000" />
+      <workItem from="1578676550335" duration="2039000" />
+      <workItem from="1578770940489" duration="12468000" />
+      <workItem from="1578935858208" duration="13416000" />
+      <workItem from="1579051405293" duration="3972000" />
+      <workItem from="1579134860661" duration="14073000" />
+      <workItem from="1579476701684" duration="5537000" />
+      <workItem from="1579482263529" duration="8518000" />
+      <workItem from="1579556530799" duration="26302000" />
+      <workItem from="1579815071471" duration="41886000" />
+      <workItem from="1580339812959" duration="15203000" />
+      <workItem from="1580422262098" duration="13000" />
+      <workItem from="1580422504438" duration="8608000" />
+      <workItem from="1580490608081" duration="8184000" />
+      <workItem from="1580870141132" duration="14915000" />
+      <workItem from="1581040955997" duration="34290000" />
+      <workItem from="1581633360909" duration="1647000" />
+      <workItem from="1581639070268" duration="51014000" />
+      <workItem from="1582654303805" duration="5825000" />
+      <workItem from="1582735850130" duration="22455000" />
+      <workItem from="1583428691316" duration="1987000" />
+      <workItem from="1583769251065" duration="1381000" />
+      <workItem from="1584669384504" duration="870000" />
+      <workItem from="1584747250424" duration="1620000" />
+      <workItem from="1584987595554" duration="2096000" />
+      <workItem from="1584990574489" duration="8925000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11024000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1855" height="1204" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.82881004" visible="true" weight="0.15422885" />
+      <window_info id="Structure" order="1" sideWeight="0.17225748" side_tool="true" weight="0.26865673" />
+      <window_info id="Favorites" order="2" sideWeight="0.12037037" side_tool="true" weight="0.2769477" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49806523" weight="0.20942883" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" x="65" y="400" width="1855" height="371" id="Event Log" order="8" side_tool="true" type="WINDOWED" weight="0.32919255" />
+      <window_info active="true" anchor="bottom" x="65" y="218" width="1855" height="735" id="Terminal" order="9" sideWeight="0.89828634" side_tool="true" visible="true" weight="0.41432458" />
+      <window_info anchor="bottom" x="263" y="558" width="314" height="221" id="TODO" order="10" type="WINDOWED" weight="0.32919255" />
+      <window_info anchor="bottom" id="CMake" order="11" sideWeight="0.10171366" weight="0.5095195" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49947917" weight="0.3294849" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.82881004" visible="true" weight="0.1602289" />
+      <window_info id="Structure" order="1" sideWeight="0.17225748" side_tool="true" weight="0.26865673" />
+      <window_info id="Favorites" order="2" sideWeight="0.12037037" side_tool="true" weight="0.2769477" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" x="65" y="400" width="1855" height="371" id="TODO" order="6" type="WINDOWED" weight="0.32919255" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" x="65" y="400" width="1855" height="371" id="Event Log" order="9" side_tool="true" type="WINDOWED" weight="0.32919255" />
+      <window_info active="true" anchor="bottom" x="65" y="218" width="1855" height="735" id="Terminal" order="10" side_tool="true" visible="true" weight="0.3519207" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="597" y="370" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584747569609">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="597" y="370" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1584747569609" />
+    <state x="573" y="392" key="com.intellij.ide.util.TipDialog" timestamp="1584747250966">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="573" y="392" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1584747250966" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/tinydtls-master(IPV4)/dtls.c</url>
+          <line>2921</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/tinydtls-master(IPV4)/dtls.c</url>
+          <line>3784</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/dtls.c</url>
+          <line>2894</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/k2sn/ksnmss.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="108" column="2" selection-start-line="108" selection-start-column="2" selection-end-line="108" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/k2sn/merkle-tree.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/k2sn/publicKeyMSS.pub">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/c1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/f2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="140006" selection-start-column="140006" selection-end-column="140006" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="45" column="26" lean-forward="true" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/f1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15000" selection-start-column="15000" selection-end-column="15000" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/dtls-server.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="77" column="31" selection-start-line="77" selection-start-column="31" selection-end-line="77" selection-end-column="31" />
+          <folding>
+            <element signature="e#1370#1498#0" expanded="true" />
+            <element signature="e#8504#8533#0" expanded="true" />
+            <element signature="e#9314#9363#0" expanded="true" />
+            <element signature="e#10657#10828#0" expanded="true" />
+            <element signature="e#10874#10945#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dtls.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1106">
+          <caret line="437" selection-start-line="437" selection-end-line="437" />
+          <folding>
+            <element signature="e#1149#1192#0" expanded="true" />
+            <element signature="e#9825#9865#0" expanded="true" />
+            <element signature="e#15799#16129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dtls-peer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="61" column="13" selection-start-line="61" selection-start-column="2" selection-end-line="61" selection-end-column="13" />
+          <folding>
+            <element signature="e#930#951#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tinydtls.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="58" column="14" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="14" />
+          <folding>
+            <element signature="e#1043#1070#0" expanded="true" />
+            <element signature="e#1730#1842#0" expanded="true" />
+            <element signature="e#4011#4113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/dtls-client.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-340">
+          <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+          <folding>
+            <element signature="e#739#783#0" expanded="true" />
+            <element signature="e#14893#15064#0" expanded="true" />
+            <element signature="e#15113#15256#0" expanded="true" />
+            <element signature="e#15286#15426#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tesla.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dtls.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="5018" column="17" selection-start-line="5018" selection-start-column="17" selection-end-line="5018" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

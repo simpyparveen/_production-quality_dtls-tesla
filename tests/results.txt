@@ -1,0 +1,5 @@
+Ubuntu,apt
+Debian,apt
+CentOS,yum
+Arch Linux,pacman
+Fedora,dnf
